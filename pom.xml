@@ -4,7 +4,7 @@
 
     <groupId>com.lindar</groupId>
     <artifactId>email-normalizer</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <name>Email Normalizer</name>
     <description>Utility library that helps you normalize your emails</description>
@@ -31,7 +31,7 @@
         <connection>scm:git:git@github.com:lindar-open/email-normalizer.git</connection>
         <developerConnection>scm:git:git@github.com:lindar-open/email-normalizer.git</developerConnection>
         <url>https://github.com/lindar-open/email-normalizer.git</url>
-        <tag>1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>
